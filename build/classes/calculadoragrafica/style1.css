@@ -1,0 +1,61 @@
+#AnchorPane{
+	-fx-background-color: #daeee9;
+}
+
+#AnchorPane .button{
+	-fx-background-color: #abd2c8;
+	-fx-text-fill: #67917a;
+	-fx-font: bold 13px "Helvetica";
+}
+
+#AnchorPane .button1{
+	-fx-background-color: #ffd521;
+	-fx-text-fill: #e2a301;
+	-fx-font: bold 14px "Helvetica";
+}
+
+#AnchorPane .button2{
+	-fx-background-color: #abd2c8;
+	-fx-text-fill: #67917a;
+	-fx-font: bold 12px "Helvetica";
+}
+
+#AnchorPane .window{
+	-fx-background-color: #e2a301;
+	-fx-text-fill: #ffd521;
+	-fx-font: bold 14px "Helvetica";
+	-fx-background-radius: 2;
+}
+
+#AnchorPane .operadores{
+	-fx-background-color: #abd2c8;
+	-fx-text-fill: #67917a;
+	-fx-font: bold 14px "Helvetica";
+}
+
+#AnchorPane .tabpane{
+	-fx-text-fill: #67917a;
+	-fx-font: 13px "Helvetica";
+	-fx-background-color: #fff;
+}
+
+#AnchorPane .tabpane1{
+	-fx-text-fill: #e2a301;
+	-fx-font: bold 12px "Helvetica";
+	-fx-background-color: #fff;
+}
+
+#AnchorPane .label1{
+	-fx-text-fill: #67917a;
+	-fx-font: bold 12px "Helvetica";
+}
+
+
+#AnchorPane .textfield{
+	-fx-background-radius: 4;
+	-fx-background-color: #fff;
+	-fx-text-fill: #67917a;
+	-fx-border-color: #67917a;
+	-fx-font: 12px "Helvetica";
+}
+
